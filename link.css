@@ -1,0 +1,250 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: #CDE9FF;
+}
+.main{
+    display: flex;
+    align-items: center;
+    padding: 10px 200px;
+    justify-content: space-between;
+    border: 1px solid rgb(216, 216, 216);
+    position: sticky;
+    top: 0;
+    background-color: #CDE9FF;
+}
+.text{
+    display: flex;
+    width: 30%;
+    justify-content: space-between;
+    cursor: pointer;
+    align-items: center;
+}
+.text button{
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-color: #40A3F8;
+    height: 40px;
+    width: 150px;
+}
+.main1{
+    display: flex;
+    align-items: center;
+    height: 650px;
+    padding: 10px 300px;
+    background-color: #CDE9FF;
+    justify-content: space-between;
+}
+.img1 img{
+    width: 500px;
+}
+.text1 h1{
+     font-size: 60px;
+}
+.text1 p{
+    margin-top: 30px;
+    color: #757575;
+}
+.text2{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+}
+.text2 input{
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+    width: 130px;
+    background-color: #e9e8e8;
+    color: white;
+}
+.text2 button{
+    border: none;
+    margin-left: 10px;
+    background-color: #40A3F8;
+}
+.p1{
+    border-radius: 5px;
+    margin-left: 3px;
+    border: none;
+    width: 100px;
+    height: 40px;
+    background-color: #e9e8e8;      
+}
+.h1 h1{
+    text-align: center;
+    margin-top: 50px;
+    font-family: sans-serif;
+    color: #3E3E3E;
+}
+.main2{
+    text-align: center;
+    display: flex;
+    padding: 10px 200px;
+    justify-content: space-between;
+}
+.text3{
+    margin-top: 60px;
+}
+.text3 button{
+    background-color: #c1d7eb;
+    border: none;
+    height: 70px;
+    width: 70px;
+  border-radius: 100px;
+}
+.text3 h5{
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.text3 p{
+  margin-top: 10px;
+  color: #757575;
+  font-size: 13px;
+}
+.main3{
+    display: flex;
+    align-items: center;
+    padding: 10px 300px;
+    justify-content: space-between;
+    margin-top: 200px;
+}
+.teext4 h1{
+    font-size: 40px;
+}
+.teext4 p{
+    color: #757575;
+    margin-top: 30px;
+    font-size: 20px;
+}
+.teext4 input{
+    color: #757575;
+    margin-top: 50px;
+}
+.teext4 label{
+    color: #757575;
+    font-size: 20px;
+}
+.teext4 button{
+    border: none;
+    background-color: #40A3F8;
+    color: white;
+    height: 50px;
+    margin-top: 50px;
+    width: 200px;
+}
+.h2{
+    margin-top: 150px;
+    text-align: center;
+}
+.h2 h1{
+    font-family: sans-serif;
+    font-size: 40px;
+}
+.h2 p{
+    margin-top: 20px;
+    color: #757575;
+}
+.text5{
+    font-family: sans-serif;
+    text-align: center;
+    padding: 50px 50px;
+    width: 250px;
+    height: 180px;
+    background-color: white;
+}
+.text5 h4{
+    margin-top: 15px;
+    text-align: center;
+}
+.text5 p{
+    margin-top: 20px;
+}
+.main5{
+    display: flex;
+    padding: 10px 200px;
+    margin-top: 100px;
+    justify-content: space-between;
+}
+.imgimg{
+    margin-top: 50px;
+    margin-left: 830px;
+}
+.h3{
+    margin-top: 100px;
+    text-align: center;
+}
+.h3 h1{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: #3E3E3E;
+}
+.h3 p{
+    font-family: sans-serif;
+    color: #757575;
+    margin-top: 20px;
+}
+.main6{
+    display: flex;
+    padding: 10px 250px;
+    justify-content: space-between;
+}
+.text6{
+    margin-top: 30px;
+    border-radius: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    width: 300px;
+    height: 500px;
+    background-color: white;
+}
+.l2{
+    margin-left: 10px;
+}
+.text6 h2{
+    margin-top: -60px;
+}
+.l1{
+    margin-top: 40px;
+}
+.button4{
+    margin-top: 50px;
+    margin-left: 830px;
+}
+.button4 button{
+    background-color: #40A3F8;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    width: 200px;
+    height: 50px;
+}
+.main7{
+    display: flex;
+    align-items: center;
+    padding: 10px 260px;
+    justify-content: space-between;
+}
+.text7 h1{
+    font-family: sans-serif;
+    font-size: 35px;
+    color: #757575;
+}
+.text7 p{
+    color: #757575;
+    font-family: sans-serif;
+    font-size: 17px;
+    margin-top: 30px;
+}
+.text7 img{
+    margin-top: 50px;
+}
+.h4{
+    text-align: center;
+    margin-top: 30px;
+    font-family: sans-serif;
+    color: #757575;
+}
